@@ -1,0 +1,23 @@
+body
+{
+  background-color: aliceblue;
+}
+
+#home_page
+{
+    margin-top: 255px;
+}
+#play_now_button
+{
+    width: 610px;
+    height: 45px;
+    font-size: larger;
+}
+#play_game
+{
+    margin-top: 150px;
+}
+#vs_card
+{
+    height: 200px;
+}
